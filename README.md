@@ -128,8 +128,10 @@ Do not hold Play/pause while powering, resetting, or uploading. It uses GPIO0, a
 ```text
 .
 ├── mp3-player/
+|   └── MP3Player_working.MOV
 │   └── MP3_Player_ESP12E.ino
-└── README.md
+|   └── README.md
+|   └── Wiring_schematic_mp3player_ESP12E.png
 ```
 
 ## License
