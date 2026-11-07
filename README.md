@@ -77,7 +77,7 @@ For generic MAX98357A modules, connect `SD` to `3V3` if there is no sound. A flo
    - `ESP8266Audio` by Earle F. Philhower, III
    - `Adafruit SSD1306`
    - `Adafruit GFX Library`
-4. Open [MP3_Player_ESP12E.ino](mp3-player/MP3_Player_ESP12E.ino).
+4. Open [MP3_Player_ESP12E.ino](MP3_Player_ESP12E.ino).
 5. Use these board settings:
    - CPU Frequency: **160 MHz**
    - Upload Speed: **115200**
